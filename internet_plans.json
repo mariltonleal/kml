@@ -1,0 +1,92 @@
+{
+  "LPNet": {
+    "Banda Larga Alone": [
+      {
+        "speed_mbps": 200,
+        "promo_price": 79.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 89.99
+      },
+      {
+        "speed_mbps": 400,
+        "promo_price": 94.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 104.99
+      },
+      {
+        "speed_mbps": 600,
+        "promo_price": 99.99,
+        "promo_duration_months": 6,
+        "post_promo_price": 109.99
+      },
+      {
+        "speed_mbps": 800,
+        "promo_price": 119.99,
+        "promo_duration_months": 6,
+        "post_promo_price": 129.99
+      }
+    ],
+    "TIO SAM": [
+      {
+        "speed_mbps": 600,
+        "promo_price": 49.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 89.99,
+        "price_after_13th_month": 99.99
+      },
+      {
+        "speed_mbps": 800,
+        "promo_price": 59.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 99.99,
+        "price_after_13th_month": 109.99
+      }
+    ]
+  },
+  "Fasternet": {
+    "Banda Larga Alone": [
+      {
+        "speed_mbps": 200,
+        "promo_price": 79.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 89.99
+      },
+      {
+        "speed_mbps": 400,
+        "promo_price": 94.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 104.99
+      },
+      {
+        "speed_mbps": 600,
+        "promo_price": 99.99,
+        "promo_duration_months": 6,
+        "post_promo_price": 109.99
+      },
+      {
+        "speed_mbps": 1024,
+        "label": "1 GB",
+        "promo_price": 119.99,
+        "promo_duration_months": 6,
+        "post_promo_price": 139.99
+      }
+    ],
+    "TIO SAM": [
+      {
+        "speed_mbps": 600,
+        "promo_price": 49.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 89.99,
+        "price_after_13th_month": 99.99
+      },
+      {
+        "speed_mbps": 1024,
+        "label": "1 GB",
+        "promo_price": 79.99,
+        "promo_duration_months": 3,
+        "post_promo_price": 99.99,
+        "price_after_13th_month": 139.99
+      }
+    ]
+  }
+}
